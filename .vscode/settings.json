@@ -19,7 +19,10 @@
   "files.exclude": {
 		"**/.git": true,
 		".vscode": true,
-		".bundle": true
+		".bundle": true,
+    ".gitpod.yml": true,
+    ".devcontainer": true,
+    "README.md": true,
   },
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
